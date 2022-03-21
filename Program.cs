@@ -188,21 +188,12 @@ namespace raytexone
                                            continue;
                                          }   
                                       }
-                    
-                    
+                         
                           }
-                
-                
                 }
              
-            
-            
              }       
-     
-       
-        
         }
-    
     
     }
 
